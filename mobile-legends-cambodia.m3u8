@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:18
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:17.533333,
+mobile-legends-cambodia0.ts
+#EXTINF:4.100000,
+mobile-legends-cambodia1.ts
+#EXTINF:12.766667,
+mobile-legends-cambodia2.ts
+#EXTINF:6.733333,
+mobile-legends-cambodia3.ts
+#EXTINF:2.900000,
+mobile-legends-cambodia4.ts
+#EXT-X-ENDLIST
